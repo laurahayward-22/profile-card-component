@@ -90,3 +90,7 @@ td{
   font-weight: 400;
   color: #6A6F81;
 }
+
+footer{
+  position: fixed;
+  bottom: 0;
